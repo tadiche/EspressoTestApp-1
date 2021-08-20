@@ -1,2 +1,2 @@
 rootProject.name = "EspressoTestApp-1"
-include ':app'
+include ':EspressoTestApp'
